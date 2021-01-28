@@ -172,7 +172,7 @@
     "@types/parse5": "^5.0.0",
     "@types/request-promise": "^4.1.43",
     "cross-env": "^5.2.0",
-    "electron": "^5.0.1",
+    "electron": "^9.4.0",
     "electron-builder": "^20.40.2",
     "electron-packager": "^13.1.1",
     "node-sass": "^4.12.0",
